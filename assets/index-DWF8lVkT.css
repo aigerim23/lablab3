@@ -20,3 +20,7 @@ h2.text-2xl.font-bold.mb-6.text-center {
     display: flex;
     flex-direction: column-reverse;
 }
+
+input{
+    color: #2aa8f4
+}
