@@ -8,5 +8,8 @@ h2.text-2xl.font-bold.mb-6.text-center {
 
 
 input{
-    color: #2aa8f4
+    color: #2aa8f4;
 }
+ *{
+         color:  color: #2aa8f4;
+ }
