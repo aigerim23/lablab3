@@ -12,3 +12,11 @@ main {
     flex-direction: column;
 }
 
+h2.text-2xl.font-bold.mb-6.text-center {
+        color: #2aa8f4;
+}
+
+.flex.gap-2 {
+    display: flex;
+    flex-direction: column-reverse;
+}
